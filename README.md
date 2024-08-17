@@ -1,2 +1,2 @@
 # base-project
-this project is deployed useing amplify
+this project is deployed using amplify
